@@ -2,7 +2,7 @@ name: Build Twrp
 
 on: 
   release:
-    types: [published]
+    types: [started]
   push:
     branches: 
       - android-8.1
